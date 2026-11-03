@@ -91,7 +91,7 @@ A full-stack room and mini-apartment listing platform focused on helping people 
 - 🏠 Manage user accounts, rental listings, and listing lifecycles.
 - 🛡️ Support administrative review, reports, and content management.
 
-**Stack:** `Astro` `TypeScript` `JavaScript` `SQLite` `Leaflet`
+**Stack:** `TypeScript` `JavaScript` `HTML` `CSS` `SQLite` `Cloudflare`
 
 <a href="https://github.com/mhnwt205/TimPhongTro"><img alt="View source code" src="https://img.shields.io/badge/Source%20Code-View%20Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 <a href="https://trotothcm.id.vn/"><img alt="Visit live website" src="https://img.shields.io/badge/Live%20Website-Visit%20Site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
