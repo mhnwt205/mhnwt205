@@ -47,7 +47,7 @@ My work connects two perspectives:
 | :--- | :--- |
 | Requirement discovery & clarification | Responsive web interfaces |
 | Business process & user-flow modeling | Frontend development with Astro / React |
-| BRDs, use cases & acceptance criteria | Backend APIs with Hono / Node.js |
+| BRDs, use cases & acceptance criteria | Backend APIs with Node.js |
 | Functional analysis & edge cases | Database integration & data modeling |
 | UAT scenarios & product validation | Debugging, testing & iteration |
 
@@ -67,7 +67,6 @@ My work connects two perspectives:
   <img alt="Astro, TypeScript, JavaScript, HTML, CSS, React, Node.js, Tailwind CSS, SQLite, PostgreSQL, Git, GitHub" src="https://skillicons.dev/icons?i=astro,ts,js,html,css,react,nodejs,tailwind,sqlite,postgres,git,github&perline=12" />
 </p>
 
-![Hono](https://img.shields.io/badge/Hono-0B1020?style=flat-square&logo=hono&logoColor=00E5FF)
 
 **Business Analysis & Delivery**
 
@@ -92,20 +91,12 @@ A full-stack room and mini-apartment listing platform focused on helping people 
 - 🏠 Manage user accounts, rental listings, and listing lifecycles.
 - 🛡️ Support administrative review, reports, and content management.
 
-**Stack:** `Astro` `TypeScript` `Hono` `JavaScript` `SQLite` `Leaflet`
+**Stack:** `Astro` `TypeScript` `JavaScript` `SQLite` `Leaflet`
 
 <a href="https://github.com/mhnwt205/TimPhongTro"><img alt="View source code" src="https://img.shields.io/badge/Source%20Code-View%20Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
 <a href="https://trotothcm.id.vn/"><img alt="Visit live website" src="https://img.shields.io/badge/Live%20Website-Visit%20Site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <sub>More work will be added here as projects are ready to share publicly.</sub>
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-  <img width="98%" alt="GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=mhnwt205&theme=github-compact&bg_color=050816&color=DCE7F5&line=00E5FF&point=BA68FF&area=true&hide_border=true" />
-
-</div>
 
 ## 🤝 Let's Connect
 
