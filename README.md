@@ -37,7 +37,7 @@ My work connects two perspectives:
 - 🧩 Interested in business processes, user flows, system behavior, and edge cases.
 - 📝 Practicing BRDs, use cases, acceptance criteria, and UAT scenarios.
 - 💻 Building full-stack applications to connect analysis with real implementation.
-- 🌱 Growing my skills in **TypeScript, APIs, cloud services, and software architecture**.
+- 🌱 Growing my skills in **TypeScript, APIs, database design, and software architecture**.
 
 </details>
 
@@ -48,7 +48,7 @@ My work connects two perspectives:
 | Requirement discovery & clarification | Responsive web interfaces |
 | Business process & user-flow modeling | Frontend development with Astro / React |
 | BRDs, use cases & acceptance criteria | Backend APIs with Hono / Node.js |
-| Functional analysis & edge cases | Database integration & serverless deployment |
+| Functional analysis & edge cases | Database integration & data modeling |
 | UAT scenarios & product validation | Debugging, testing & iteration |
 
 ### My product mindset
@@ -64,12 +64,10 @@ My work connects two perspectives:
 **Development**
 
 <p>
-  <img alt="Astro, TypeScript, JavaScript, HTML, CSS, React, Node.js, Cloudflare, SQLite, PostgreSQL, Git, GitHub" src="https://skillicons.dev/icons?i=astro,ts,js,html,css,react,nodejs,cloudflare,sqlite,postgres,git,github&perline=12" />
+  <img alt="Astro, TypeScript, JavaScript, HTML, CSS, React, Node.js, Tailwind CSS, SQLite, PostgreSQL, Git, GitHub" src="https://skillicons.dev/icons?i=astro,ts,js,html,css,react,nodejs,tailwind,sqlite,postgres,git,github&perline=12" />
 </p>
 
 ![Hono](https://img.shields.io/badge/Hono-0B1020?style=flat-square&logo=hono&logoColor=00E5FF)
-![Cloudflare D1](https://img.shields.io/badge/Cloudflare%20D1-312E81?style=flat-square&logo=cloudflare&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-0E7490?style=flat-square&logo=cloudflare&logoColor=white)
 
 **Business Analysis & Delivery**
 
@@ -79,7 +77,7 @@ My work connects two perspectives:
 ![User Stories](https://img.shields.io/badge/User%20Stories-7C3AED?style=flat-square)
 ![UAT & Testing](https://img.shields.io/badge/UAT%20%26%20Testing-164E63?style=flat-square)
 
-**Currently deepening:** TypeScript • Cloudflare Workers • API design • Scalable product workflows
+**Currently deepening:** TypeScript • API design • Database design • Scalable product workflows
 
 ## 🚀 Featured Project
 
@@ -94,10 +92,10 @@ A full-stack room and mini-apartment listing platform focused on helping people 
 - 🏠 Manage user accounts, rental listings, and listing lifecycles.
 - 🛡️ Support administrative review, reports, and content management.
 
-**Stack:** `Astro` `TypeScript` `Hono` `Cloudflare Workers` `D1` `R2` `Leaflet`
+**Stack:** `Astro` `TypeScript` `Hono` `JavaScript` `SQLite` `Leaflet`
 
 <a href="https://github.com/mhnwt205/TimPhongTro"><img alt="View source code" src="https://img.shields.io/badge/Source%20Code-View%20Repository-0B1020?style=for-the-badge&logo=github&logoColor=00E5FF" /></a>
-<a href="https://trotothcm.id.vn/"><img alt="Visit live website" src="https://img.shields.io/badge/Live%20Website-Visit%20Site-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+<a href="https://trotothcm.id.vn/"><img alt="Visit live website" src="https://img.shields.io/badge/Live%20Website-Visit%20Site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <sub>More work will be added here as projects are ready to share publicly.</sub>
 
